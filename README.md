@@ -7,3 +7,5 @@
 3. Boxplot
 4. 레이블 확인 (갯수 - value_counts(), sns)
 5. Scaling (Stand, Min-Max)
+
+인공지능 기초를 위한 FAQ 스캔본-인공지능 기초를 위한 FAQ-컴퓨터공학과 201935620 김현재.hwp
