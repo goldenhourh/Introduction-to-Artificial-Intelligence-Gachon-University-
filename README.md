@@ -9,4 +9,5 @@
 5. Scaling (Stand, Min-Max)
 
 인공지능 기초를 위한 FAQ 스캔본-인공지능 기초를 위한 FAQ-컴퓨터공학과 201935620 김현재.hwp
-4주차 과제-boston.ipynb
+
+4주차 과제-boston.ipynb, Irisdata_regression.ipynb(Iris 회귀, KNN 활용)
