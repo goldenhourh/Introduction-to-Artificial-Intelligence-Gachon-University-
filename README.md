@@ -11,3 +11,4 @@
 인공지능 기초를 위한 FAQ 스캔본-인공지능 기초를 위한 FAQ-컴퓨터공학과 201935620 김현재.hwp
 
 4주차 과제-week4/boston.ipynb, Irisdata_regression.ipynb(Iris 회귀, KNN 활용)
+// 과제 및 공부 자료 폴더 정리로 인한 추가 커밋
